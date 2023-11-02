@@ -2,7 +2,7 @@
 <div align="center">
 <h3 align="center">PRAGMA POWER-UP</h3>
   <p align="center">
-    In this challenge you are going to design the backend of a system that centralizes the services and orders of a restaurant chain that has different branches in the city.
+    En este reto vas a diseñar el backend de un sistema que centraliza los pedidos de una plazoleta de comidas que tiene diferentes restaurantes, cada uno con un menú particular.
   </p>
 </div>
 
